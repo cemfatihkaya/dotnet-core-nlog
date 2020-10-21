@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+k1Zv6sc6GJX+Gw4OyDe69nVqhqKyz2WebCu6wO6CXwm6Aah/CdWK0nTeF2ILTWaf/pCUDR29IXIr+JL9k7dVw==",
+  "success": true,
+  "projectFilePath": "E:\\DEV\\SideProject\\WebApp.NLog\\WebApp.Core\\WebApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cem Fatih KAYA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\bin\Debug\netcoreapp3.1\WebApp.Core.deps.json
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\bin\Debug\netcoreapp3.1\WebApp.Core.dll
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.csprojAssemblyReference.cache
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.AssemblyInfoInputs.cache
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.AssemblyInfo.cs
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\bin\Debug\netcoreapp3.1\WebApp.Core.pdb
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.csproj.CoreCompileInputs.cache
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.dll
+E:\DEV\SideProject\WebApp.NLog\WebApp.Core\obj\Debug\netcoreapp3.1\WebApp.Core.pdb
