@@ -26,8 +26,6 @@ namespace WebApp.NLog
             }
             finally
             {
-                logger.Info("Uygulama baþladý.");
-
                 LogManager.Shutdown();
             }
         }
